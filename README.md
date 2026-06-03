@@ -18,7 +18,7 @@ I enjoy building practical web applications, learning backend system design, and
 
 - 🎓 Software Engineering student, expected graduation: **2026**
 - 💻 Interested in **Web Development, Backend APIs, Microservices, Cloud, and Big Data**
-- 🌱 Currently improving my skills in **React, Spring Boot, .NET, PostgreSQL, AWS, Docker, and system design**
+- 🌱 Currently improving my skills in **React, Spring Boot, PostgreSQL, AWS, Docker, and system design**
 - 🧠 I like learning through real projects, especially systems with authentication, booking, payment, dashboards, and AI features
 - 🤝 Experienced in teamwork, Git/GitHub collaboration, Agile-style project work, and technical documentation
 - 🚀 Long-term direction: become stronger in **backend engineering** and gradually move toward **Big Data with Java**
@@ -29,7 +29,6 @@ I enjoy building practical web applications, learning backend system design, and
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -41,7 +40,6 @@ I enjoy building practical web applications, learning backend system design, and
 
 ### Backend & Database
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -76,10 +74,10 @@ A web application project involving frontend/backend deployment, environment con
 **What I worked with:**
 - Git branch management and deployment branches
 - Frontend deployment workflow
-- Backend configuration with `.NET` and PostgreSQL
+- Backend configuration with PostgreSQL and environment variables
 - Environment variables and database connection setup
 
-**Tech focus:** React, .NET, PostgreSQL, GitHub, deployment configuration.
+**Tech focus:** React, PostgreSQL, GitHub, deployment configuration.
 
 ---
 
@@ -97,30 +95,7 @@ A microservices-oriented e-commerce project idea with AI recommendation and RAG 
 
 ---
 
-### Manga Production Management System
-A project concept for managing manga production between Mangaka, Assistant, Tantou Editor, Editorial Board, and Admin.
 
-**Main features:**
-- Series proposal and manuscript submission
-- Page task assignment for assistants
-- Editor annotation and review flow
-- Editorial board voting and ranking decision
-- AI bubble segmentation and text cleaning concept
-
-**Tech focus:** MERN, use case design, database design, workflow modeling, AI-assisted content editing.
-
----
-
-### Information Security Lab Projects
-Academic security projects focused on cryptography and information hiding.
-
-**Topics include:**
-- Ransomware simulation in a controlled lab environment
-- Hybrid encryption using AES and RSA concepts
-- Steganography methods such as LSB, PVD, DCT, and DWT
-- Security analysis, mitigation, and technical reporting
-
----
 
 ## Learning Roadmap
 
@@ -154,7 +129,7 @@ I am currently strengthening my foundation in:
 ```txt
 React + Tailwind CSS       █████████░░  Improving
 Spring Boot / REST API     ████████░░░  Practicing
-.NET + PostgreSQL          ███████░░░░  Learning by project
+PostgreSQL / Database      ███████░░░░  Learning by project
 Cloud / AWS                ██████░░░░░  Building foundation
 Big Data with Java         █████░░░░░░  Long-term roadmap
 ```
